@@ -1,0 +1,150 @@
+days = ['first']
+for day in days:
+    print("On the %s day of christmas my true love sent to me" % (day))
+On_the_first_day_of_christmas_my_true_love_sent_to_me = 0
+while On_the_first_day_of_christmas_my_true_love_sent_to_me < 1:
+    print("a partridge in a peartree")
+    On_the_first_day_of_christmas_my_true_love_sent_to_me = On_the_first_day_of_christmas_my_true_love_sent_to_me + 1
+days = ['second']
+for day in days:
+    print("On the %s day of christmas my true love sent to me" % (day))
+On_the_second_day_of_christmas_my_true_love_sent_to_me = 1
+while On_the_second_day_of_christmas_my_true_love_sent_to_me < 2:
+    print("two turtle doves")
+    print("and a partridge in a peartree")
+    On_the_second_day_of_christmas_my_true_love_sent_to_me = On_the_second_day_of_christmas_my_true_love_sent_to_me + 1
+days = ['third']
+for day in days:
+    print("On the %s day of christmas my true love sent to me" % (day))
+On_the_third_day_of_christmas_my_true_love_sent_to_me = 2
+while On_the_third_day_of_christmas_my_true_love_sent_to_me < 3:
+    print("three French hens")
+    print("two turtle doves")
+    print("and a partridge in a peartree")
+    On_the_third_day_of_christmas_my_true_love_sent_to_me = On_the_third_day_of_christmas_my_true_love_sent_to_me + 1
+days = ['fourth']
+for day in days:
+    print("On the %s day of christmas my true love sent to me" % (day))
+On_the_fourth_day_of_christmas_my_true_love_sent_to_me = 3
+while On_the_fourth_day_of_christmas_my_true_love_sent_to_me < 4:
+    print("four calling birds")
+    print("three French hens")
+    print("two turtle doves")
+    print("and a partridge in a peartree")
+    On_the_fourth_day_of_christmas_my_true_love_sent_to_me = On_the_fourth_day_of_christmas_my_true_love_sent_to_me + 1
+days = ['fifth']
+for day in days:
+    print("On the %s day of christmas my true love sent to me" % (day))
+On_the_fifth_day_of_christmas_my_true_love_sent_to_me = 4
+while On_the_fifth_day_of_christmas_my_true_love_sent_to_me < 5:
+    print("five golden rings")
+    print("four calling birds")
+    print("three French hens")
+    print("two turtle doves")
+    print("and a partridge in a peartree")
+    On_the_fifth_day_of_christmas_my_true_love_sent_to_me = On_the_fifth_day_of_christmas_my_true_love_sent_to_me + 1
+days = ['sixth']
+for day in days:
+    print("On the %s day of christmas my true love sent to me" % (day))
+On_the_sixth_day_of_christmas_my_true_love_sent_to_me = 5
+while On_the_sixth_day_of_christmas_my_true_love_sent_to_me < 6:
+    print("six geese a-laying")
+    print("five golden rings")
+    print("four calling birds")
+    print("three French hens")
+    print("two turtle doves")
+    print("and a partridge in a peartree")
+    On_the_sixth_day_of_christmas_my_true_love_sent_to_me = On_the_sixth_day_of_christmas_my_true_love_sent_to_me + 1
+days = ['seventh']
+for day in days:
+    print("On the %s day of christmas my true love sent to me" % (day))
+On_the_seventh_day_of_christmas_my_true_love_sent_to_me = 6
+while On_the_seventh_day_of_christmas_my_true_love_sent_to_me < 7:
+    print("seven swans a-swimming")
+    print("six geese a-laying")
+    print("five golden rings")
+    print("four calling birds")
+    print("three French hens")
+    print("two turtle doves")
+    print("and a partridge in a peartree")
+    On_the_seventh_day_of_christmas_my_true_love_sent_to_me = On_the_seventh_day_of_christmas_my_true_love_sent_to_me + 1
+days = ['eighth']
+for day in days:
+    print("On the %s day of christmas my true love sent to me" % (day))
+On_the_eighth_day_of_christmas_my_true_love_sent_to_me = 7
+while On_the_eighth_day_of_christmas_my_true_love_sent_to_me < 8:
+    print("eight fuckmaids milking")
+    print("seven swans a-swimming")
+    print("six geese a-laying")
+    print("five golden rings")
+    print("four calling birds")
+    print("three French hens")
+    print("two turtle doves")
+    print("and a partridge in a peartree")
+    On_the_eighth_day_of_christmas_my_true_love_sent_to_me = On_the_eighth_day_of_christmas_my_true_love_sent_to_me + 1
+days = ['nineth']
+for day in days:
+    print("On the %s day of christmas my true love sent to me" % (day))
+On_the_nineth_day_of_christmas_my_true_love_sent_to_me = 8
+while On_the_nineth_day_of_christmas_my_true_love_sent_to_me < 9:
+    print("nine pixies dancing")
+    print("eight fuckmaids milking")
+    print("seven swans a-swimming")
+    print("six geese a-laying")
+    print("five golden rings")
+    print("four calling birds")
+    print("three French hens")
+    print("two turtle doves")
+    print("and a partridge in a peartree")
+    On_the_nineth_day_of_christmas_my_true_love_sent_to_me = On_the_eighth_day_of_christmas_my_true_love_sent_to_me + 1
+days = ['tenth']
+for day in days:
+    print("On the %s day of christmas my true love sent to me" % (day))
+On_the_tenth_day_of_christmas_my_true_love_sent_to_me = 9
+while On_the_tenth_day_of_christmas_my_true_love_sent_to_me < 10:
+    print("ten lords a-leaping")
+    print("nine ladies dancing")
+    print("eight maids a-milking")
+    print("seven swans a-swimming")
+    print("six geese a-laying")
+    print("five golden rings")
+    print("four calling birds")
+    print("three French hens")
+    print("two turtle doves")
+    print("and a partridge in a peartree")
+    On_the_tenth_day_of_christmas_my_true_love_sent_to_me = On_the_tenth_day_of_christmas_my_true_love_sent_to_me + 1
+days = ['eleventh']
+for day in days:
+    print("On the %s day of christmas my true love sent to me" % (day))
+On_the_eleventh_day_of_christmas_my_true_love_sent_to_me = 10
+while On_the_eleventh_day_of_christmas_my_true_love_sent_to_me < 11:
+    print("eleven pipers piping")
+    print("ten lords a-leaping")
+    print("nine ladies dancing")
+    print("eight maids a-milking")
+    print("seven swans a-swimming")
+    print("six geese a-laying")
+    print("five golden rings")
+    print("four calling birds")
+    print("three French hens")
+    print("two turtle doves")
+    print("and a partridge in a peartree")
+    On_the_eleventh_day_of_christmas_my_true_love_sent_to_me = On_the_eleventh_day_of_christmas_my_true_love_sent_to_me + 1
+days = ['twelfth']
+for day in days:
+    print("On the %s day of christmas my true love sent to me" % (day))
+On_the_twelfth_day_of_christmas_my_true_love_sent_to_me = 11
+while On_the_twelfth_day_of_christmas_my_true_love_sent_to_me < 12:
+    print("twelve drummers drumming")
+    print("eleven pipers piping")
+    print("ten lords a-leaping")
+    print("nine ladies dancing")
+    print("eight maids a-milking")
+    print("seven swans a-swimming")
+    print("six geese a-laying")
+    print("five golden rings")
+    print("four calling birds")
+    print("three French hens")
+    print("two turtle doves")
+    print("and a partridge in a peartree")
+    On_the_twelfth_day_of_christmas_my_true_love_sent_to_me = On_the_twelfth_day_of_christmas_my_true_love_sent_to_me + 1
